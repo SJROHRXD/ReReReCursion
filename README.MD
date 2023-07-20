@@ -6,12 +6,12 @@
 
 ### Video Contents:
 
-- What Is Recursion?
+- What Is Recursion? *Chapter 1*
     - Explaining Recursion via ATM Analogy
     - Explaining Recursion via Essay Revision Analogy
     - Summarizing What Recursion Is
     - Why & Why Not Recursion
-- Understanding The Call Stack
+- Understanding The Call Stack *Chapter 2*
     - Call Stack Analogy
 - Recursion With Strings Introduction 
     - String Reversal Explanation
